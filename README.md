@@ -1,7 +1,10 @@
 # Tong-PPT-design-Tong 
 Tong 维护的 AI 演示文稿设计技能，适配 Codex、Claude Code 等 Agent。内置杂志风、瑞士风、摄影作品集等六套视觉风格，支持生成横向翻页 HTML 演示，提供 PPTX/CDR 模板及配图工作流，适用于演讲分享、个人介绍、设计作品集、品牌汇报与空间设计提案。
-<img width="7680" height="4320" alt="旷野之静_新中式养生_12页_16比9横版修正版_01" src="https://github.com/user-attachments/assets/529603f9-3d40-46b2-b90d-8859178fe766" />
-<img width="7680" height="4320" alt="旷野之静_新中式养生_12页_16比9横版修正版_02" src="https://github.com/user-attachments/assets/434e4eb5-71ad-47f4-9a1a-735f39a4a761" />
-<img width="7680" height="4320" alt="旷野之静_新中式养生_12页_16比9横版修正版_03" src="https://github.com/user-attachments/assets/904def4d-822d-46ba-9594-a8698aee9cfc" />
-<img width="7680" height="4320" alt="旷野之静_新中式养生_12页_16比9横版修正版_06" src="https://github.com/user-attachments/assets/9dc2d47b-af36-46df-9d09-d12fc7dcc0f4" />
-<img width="7680" height="4320" alt="旷野之静_新中式养生_12页_16比9横版修正版_12" src="https://github.com/user-attachments/assets/1117f55d-a5f8-49b5-bdcb-52e685154fb5" />
+<img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/2e65965d-c081-4297-9ded-037f4d175635" />
+<img width="1920" height="1080" alt="07" src="https://github.com/user-attachments/assets/ada25001-7854-4fb1-b133-ce761748bdf7" />
+<img width="1920" height="1080" alt="06" src="https://github.com/user-attachments/assets/bbb2dd3f-d8c9-4f32-bc94-b29a3f0ba36d" />
+<img width="1920" height="1080" alt="05" src="https://github.com/user-attachments/assets/b553f1b0-752a-4a25-ba46-d1aac963202b" />
+<img width="1920" height="1080" alt="04" src="https://github.com/user-attachments/assets/40695b8b-877d-4fbe-9d38-094037a77a97" />
+<img width="1920" height="1080" alt="02" src="https://github.com/user-attachments/assets/afe8566e-0f1f-42e6-ab25-24d7e004846e" />
+<img width="1920" height="1080" alt="01" src="https://github.com/user-attachments/assets/1e3bf273-212e-428f-b4c8-5b66f59c90b5" />
+<img width="1920" height="1080" alt="12" src="https://github.com/user-attachments/assets/ea7fee51-5347-4253-a10b-6a29f7325083" />
