@@ -1,0 +1,7 @@
+interface:
+  display_name: "静养东方 Jingyang Dongfang"
+  short_description: "复用12页新中式空间提案，保留暖金摄影、宋体行书与多样对齐"
+  icon_large: "./assets/preview.png"
+  default_prompt: "使用 $artifact-template-jingyang-dongfang 为新中式空间制作提案，沿用横版摄影、多样对齐与中英文混合字体，保留可编辑文字。"
+policy:
+  allow_implicit_invocation: true
